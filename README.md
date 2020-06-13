@@ -1,2 +1,2 @@
-# python-jogos
-Estudos Alura - Python
+# python3 - jogos
+Estudos Alura - Python3
